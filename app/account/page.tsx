@@ -205,7 +205,7 @@ export default function AccountPage() {
                 <DollarSign className="h-4 w-4 text-muted-foreground" />
               </CardHeader>
               <CardContent>
-                <div className="text-3xl font-bold">$2,000,000.00</div>
+                <div className="text-3xl font-bold">$2,140,1100.56</div>
                 <p className="text-xs text-muted-foreground">Available Balance</p>
               </CardContent>
               <CardFooter className="flex gap-2">
